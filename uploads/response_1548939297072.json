@@ -1,0 +1,3905 @@
+{
+  "codigoRetorno": 200,
+  "descricaoRetorno": "Got it!",
+  "objectsReturn": {
+    "historicoChamado": [
+      {
+        "dtAbertura": "27/04/2018",
+        "numeroProtocolo": 22529085,
+        "status": "EM ATENDIMENTO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054356,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "27/04/2018",
+        "numeroProtocolo": 22529084,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054352,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054355,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054354,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054353,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "27/04/2018",
+        "numeroProtocolo": 22529083,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054349,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054348,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054351,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054350,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "27/04/2018",
+        "numeroProtocolo": 22529082,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054344,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054347,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054346,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054345,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "27/04/2018",
+        "numeroProtocolo": 22529081,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78056970,
+              "dataCriacao": "30/01/2019",
+              "tipoOcorrencia": {
+                "id": 9,
+                "descricao": "ENVIO NOTIFICAÇÃO AO CLIENTE"
+              },
+              "observacao": "ENVIO NOTIFICAÇÃO AO CLIENTE - Enviado por email ( RUGEROPS@GMAIL.COM). ",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054343,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054342,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054340,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054341,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "27/04/2018",
+        "numeroProtocolo": 22529080,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054336,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054339,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054338,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054337,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "27/04/2018",
+        "numeroProtocolo": 22529079,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054332,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054335,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054334,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054333,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "20/04/2018",
+        "numeroProtocolo": 22529070,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054329,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054331,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054330,
+              "dataCriacao": "27/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054299,
+              "dataCriacao": "20/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "18/04/2018",
+        "numeroProtocolo": 22529064,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054264,
+              "dataCriacao": "18/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054267,
+              "dataCriacao": "18/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054266,
+              "dataCriacao": "18/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054265,
+              "dataCriacao": "18/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "dtPrevista": "13/04/2018",
+        "numeroProtocolo": 22529063,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [
+            {
+              "tipoAssunto": {},
+              "assuntoSeq": 203,
+              "statusAssunto": {
+                "id": 1,
+                "valor": "RESOLVIDO"
+              },
+              "dataConclusao": "13/04/2018 00: 00",
+              "nome": "ALTERACAO DE DADOS CADASTRAIS",
+              "observacaoPadrao": "ALTERACAO DE DADOS CADASTRAIS",
+              "prazo": 0
+            }
+          ],
+          "historicos": [
+            {
+              "seqHist": 78056968,
+              "dataCriacao": "30/01/2019",
+              "tipoOcorrencia": {
+                "id": 8,
+                "descricao": "ENVIO PROTOCOLO AO CLIENTE"
+              },
+              "observacao": "ENVIO PROTOCOLO AO CLIENTE - Enviado por email ( RUGEROPS@GMAIL.COM). ",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78056925,
+              "dataCriacao": "28/01/2019",
+              "tipoOcorrencia": {
+                "id": 12,
+                "descricao": "COMUNICAÇÕES AO CLIENTE"
+              },
+              "observacao": "COMUNICAÇÕES AO CLIENTE",
+              "usuCpf": 35150693804,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78056924,
+              "dataCriacao": "28/01/2019",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "asa",
+              "usuCpf": 35150693804,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78056926,
+              "dataCriacao": "28/01/2019",
+              "tipoOcorrencia": {
+                "id": 12,
+                "descricao": "COMUNICAÇÕES AO CLIENTE"
+              },
+              "observacao": "asa",
+              "usuCpf": 35150693804,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054253,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054254,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054251,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054250,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054249,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054248,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054252,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 1,
+          "formaEnvioHistorico": 1,
+          "formaEnvioCancelamento": 1,
+          "formaEnvioEncerramento": 3
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529062,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054261,
+              "dataCriacao": "18/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054263,
+              "dataCriacao": "18/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054262,
+              "dataCriacao": "18/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054247,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "dtPrevista": "13/04/2018",
+        "numeroProtocolo": 22529061,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [
+            {
+              "tipoAssunto": {},
+              "assuntoSeq": 331,
+              "statusAssunto": {
+                "id": 1,
+                "valor": "RESOLVIDO"
+              },
+              "dataConclusao": "13/04/2018 00: 00",
+              "nome": "ALTERACAO DE DADOS CADASTRAIS",
+              "observacaoPadrao": "ALTERACAO DE DADOS CADASTRAIS",
+              "prazo": 0
+            }
+          ],
+          "historicos": [
+            {
+              "seqHist": 78054237,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054238,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054239,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054240,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054246,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054242,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054243,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054244,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054245,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054241,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 3,
+          "formaEnvioHistorico": 1,
+          "formaEnvioCancelamento": 1,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "dtPrevista": "13/04/2018",
+        "numeroProtocolo": 22529061,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [
+            {
+              "tipoAssunto": {},
+              "assuntoSeq": 331,
+              "statusAssunto": {
+                "id": 1,
+                "valor": "RESOLVIDO"
+              },
+              "dataConclusao": "13/04/2018 00: 00",
+              "nome": "ALTERACAO DE DADOS CADASTRAIS",
+              "observacaoPadrao": "ALTERACAO DE DADOS CADASTRAIS",
+              "prazo": 0
+            }
+          ],
+          "historicos": [
+            {
+              "seqHist": 78054237,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054238,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054239,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054240,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054246,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054242,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054243,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054244,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054245,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054241,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 3,
+          "formaEnvioHistorico": 1,
+          "formaEnvioCancelamento": 1,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529060,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054234,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054233,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054236,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054235,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529059,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054229,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054232,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054231,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054230,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "dtPrevista": "13/04/2018",
+        "numeroProtocolo": 22529058,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [
+            {
+              "tipoAssunto": {},
+              "assuntoSeq": 257,
+              "statusAssunto": {
+                "id": 1,
+                "valor": "RESOLVIDO"
+              },
+              "dataConclusao": "13/04/2018 00: 00",
+              "nome": "ALTERACAO DE DADOS CADASTRAIS",
+              "observacaoPadrao": "ALTERACAO DE DADOS CADASTRAIS",
+              "prazo": 0
+            }
+          ],
+          "historicos": [
+            {
+              "seqHist": 78054222,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054223,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054224,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054228,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054226,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054227,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054225,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 3,
+          "formaEnvioHistorico": 1,
+          "formaEnvioCancelamento": 1,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529057,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054218,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054221,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054220,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054219,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok\r\n",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529056,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054214,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054217,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054216,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054215,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "dtPrevista": "13/04/2018",
+        "numeroProtocolo": 22529055,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [
+            {
+              "tipoAssunto": {},
+              "assuntoSeq": 789,
+              "statusAssunto": {
+                "id": 1,
+                "valor": "RESOLVIDO"
+              },
+              "dataConclusao": "13/04/2018 00: 00",
+              "nome": "ALTERACAO DE DADOS CADASTRAIS",
+              "observacaoPadrao": "ALTERACAO DE DADOS CADASTRAIS",
+              "prazo": 0
+            }
+          ],
+          "historicos": [
+            {
+              "seqHist": 78054201,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054202,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054203,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054204,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054205,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054206,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054213,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054208,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054209,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054210,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054211,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054212,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054207,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 3,
+          "formaEnvioHistorico": 1,
+          "formaEnvioCancelamento": 1,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "dtPrevista": "13/04/2018",
+        "numeroProtocolo": 22529055,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [
+            {
+              "tipoAssunto": {},
+              "assuntoSeq": 789,
+              "statusAssunto": {
+                "id": 1,
+                "valor": "RESOLVIDO"
+              },
+              "dataConclusao": "13/04/2018 00: 00",
+              "nome": "ALTERACAO DE DADOS CADASTRAIS",
+              "observacaoPadrao": "ALTERACAO DE DADOS CADASTRAIS",
+              "prazo": 0
+            }
+          ],
+          "historicos": [
+            {
+              "seqHist": 78054201,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054202,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054203,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054204,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054205,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054206,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054213,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054208,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054209,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054210,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054211,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054212,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054207,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 3,
+          "formaEnvioHistorico": 1,
+          "formaEnvioCancelamento": 1,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "dtPrevista": "13/04/2018",
+        "numeroProtocolo": 22529055,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [
+            {
+              "tipoAssunto": {},
+              "assuntoSeq": 789,
+              "statusAssunto": {
+                "id": 1,
+                "valor": "RESOLVIDO"
+              },
+              "dataConclusao": "13/04/2018 00: 00",
+              "nome": "ALTERACAO DE DADOS CADASTRAIS",
+              "observacaoPadrao": "ALTERACAO DE DADOS CADASTRAIS",
+              "prazo": 0
+            }
+          ],
+          "historicos": [
+            {
+              "seqHist": 78054201,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054202,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054203,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054204,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054205,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054206,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054213,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054208,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054209,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054210,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054211,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054212,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054207,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 3,
+          "formaEnvioHistorico": 1,
+          "formaEnvioCancelamento": 1,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "dtPrevista": "13/04/2018",
+        "numeroProtocolo": 22529054,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [
+            {
+              "tipoAssunto": {},
+              "assuntoSeq": 962,
+              "statusAssunto": {
+                "id": 1,
+                "valor": "RESOLVIDO"
+              },
+              "dataConclusao": "13/04/2018 00: 00",
+              "nome": "ALTERACAO DE DADOS CADASTRAIS",
+              "observacaoPadrao": "ALTERACAO DE DADOS CADASTRAIS",
+              "prazo": 0
+            }
+          ],
+          "historicos": [
+            {
+              "seqHist": 78054198,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054199,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054200,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054191,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054197,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054193,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054194,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054195,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054196,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054192,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 3,
+          "formaEnvioHistorico": 1,
+          "formaEnvioCancelamento": 1,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "dtPrevista": "13/04/2018",
+        "numeroProtocolo": 22529054,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [
+            {
+              "tipoAssunto": {},
+              "assuntoSeq": 962,
+              "statusAssunto": {
+                "id": 1,
+                "valor": "RESOLVIDO"
+              },
+              "dataConclusao": "13/04/2018 00: 00",
+              "nome": "ALTERACAO DE DADOS CADASTRAIS",
+              "observacaoPadrao": "ALTERACAO DE DADOS CADASTRAIS",
+              "prazo": 0
+            }
+          ],
+          "historicos": [
+            {
+              "seqHist": 78054198,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054199,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054200,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054191,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054197,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054193,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054194,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054195,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054196,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054192,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 3,
+          "formaEnvioHistorico": 1,
+          "formaEnvioCancelamento": 1,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529053,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054187,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054190,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054189,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054188,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529052,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054184,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054183,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054186,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054185,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529051,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054179,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054182,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054181,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054180,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529050,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054175,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054178,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054177,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054176,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529049,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054172,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054171,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054174,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054173,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529048,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054164,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054167,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054166,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054165,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529047,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054163,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054170,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054169,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054168,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok\r\n",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "dtPrevista": "13/04/2018",
+        "numeroProtocolo": 22529046,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [
+            {
+              "tipoAssunto": {},
+              "assuntoSeq": 696,
+              "statusAssunto": {
+                "id": 1,
+                "valor": "RESOLVIDO"
+              },
+              "dataConclusao": "13/04/2018 00: 00",
+              "nome": "ALTERACAO DE DADOS CADASTRAIS",
+              "observacaoPadrao": "ALTERACAO DE DADOS CADASTRAIS",
+              "prazo": 0
+            }
+          ],
+          "historicos": [
+            {
+              "seqHist": 78054157,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 3,
+                "descricao": "INCLUSAO DE ASSUNTO"
+              },
+              "observacao": "INCLUSAO DE ASSUNTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054158,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 18,
+                "descricao": "OBSERVAÇÃO PADRÃO"
+              },
+              "observacao": "ALTERACAO DE DADOS CADASTRAIS",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054159,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 16,
+                "descricao": "OBSERVAÇÃO ADICIONAL"
+              },
+              "observacao": "Alteracao de dados cadastrais",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054162,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054160,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054161,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054156,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 3,
+          "formaEnvioHistorico": 1,
+          "formaEnvioCancelamento": 1,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "13/04/2018",
+        "numeroProtocolo": 22529045,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054152,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054155,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054154,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054153,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "12/04/2018",
+        "numeroProtocolo": 22529043,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054149,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "ok",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054150,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054151,
+              "dataCriacao": "13/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054147,
+              "dataCriacao": "12/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "04/04/2018",
+        "numeroProtocolo": 22529016,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78054002,
+              "dataCriacao": "04/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054005,
+              "dataCriacao": "04/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054004,
+              "dataCriacao": "04/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78054003,
+              "dataCriacao": "04/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "asaas",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      },
+      {
+        "dtAbertura": "04/04/2018",
+        "numeroProtocolo": 22529015,
+        "status": "ENCERRADO",
+        "chamadoDetalhe": {
+          "usuCpf": 0,
+          "assunto": [],
+          "historicos": [
+            {
+              "seqHist": 78053995,
+              "dataCriacao": "04/04/2018",
+              "tipoOcorrencia": {
+                "id": 1,
+                "descricao": "ABERTURA CHAMADO"
+              },
+              "observacao": "ABERTURA CHAMADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78053998,
+              "dataCriacao": "04/04/2018",
+              "tipoOcorrencia": {
+                "id": 14,
+                "descricao": "ALTERAÇÃO DE CHAMADO"
+              },
+              "observacao": "ALTERAÇÃO DE CHAMADO para ENCERRADO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78053997,
+              "dataCriacao": "04/04/2018",
+              "tipoOcorrencia": {
+                "id": 17,
+                "descricao": "FINALIZAÇÃO DE ATENDIMENTO"
+              },
+              "observacao": "FINALIZAÇÃO DE ATENDIMENTO",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            },
+            {
+              "seqHist": 78053996,
+              "dataCriacao": "04/04/2018",
+              "tipoOcorrencia": {
+                "id": 15,
+                "descricao": "INFORMAÇÕES COMPLEMENTARES"
+              },
+              "observacao": "asaasa",
+              "usuCpf": 11111111111,
+              "assunto": [],
+              "historicos": [],
+              "formaEnvioProtocolo": 0,
+              "formaEnvioHistorico": 0,
+              "formaEnvioCancelamento": 0,
+              "formaEnvioEncerramento": 0
+            }
+          ],
+          "formaEnvioProtocolo": 0,
+          "formaEnvioHistorico": 0,
+          "formaEnvioCancelamento": 0,
+          "formaEnvioEncerramento": 0
+        }
+      }
+    ]
+  }
+}

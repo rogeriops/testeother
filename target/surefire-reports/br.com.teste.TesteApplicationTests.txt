@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: br.com.teste.TesteApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.277 s <<< FAILURE! - in br.com.teste.TesteApplicationTests
+contextLoads(br.com.teste.TesteApplicationTests)  Time elapsed: 0.01 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'repositoryTest': Unsatisfied dependency expressed through field 'clienteRepository'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'clienteRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Failed to create query for method public abstract br.com.teste.domain.Cliente br.com.teste.repository.ClienteRepository.findOne(java.lang.Long)! No property findOne found for type Cliente!
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'clienteRepository': Invocation of init method failed; nested exception is java.lang.IllegalArgumentException: Failed to create query for method public abstract br.com.teste.domain.Cliente br.com.teste.repository.ClienteRepository.findOne(java.lang.Long)! No property findOne found for type Cliente!
+Caused by: java.lang.IllegalArgumentException: Failed to create query for method public abstract br.com.teste.domain.Cliente br.com.teste.repository.ClienteRepository.findOne(java.lang.Long)! No property findOne found for type Cliente!
+Caused by: org.springframework.data.mapping.PropertyReferenceException: No property findOne found for type Cliente!
+

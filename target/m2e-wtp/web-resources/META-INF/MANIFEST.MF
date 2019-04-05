@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: teste
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: T2113672
+Implementation-Vendor-Id: br.com
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/teste
+Created-By: Maven Integration for Eclipse
+

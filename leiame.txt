@@ -1,0 +1,10 @@
+Para iniciar o programa
+
+mvn spring-boot:run
+
+O programa sobe um banco em memoria
+
+Para consultar o banco em memoria:
+
+http://localhost:9000/h2-console
+
